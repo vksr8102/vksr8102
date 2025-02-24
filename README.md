@@ -94,8 +94,8 @@
 
 ### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikash-kumar-01180321a&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-kumar-01180321a&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vksr8102&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vksr8102&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
