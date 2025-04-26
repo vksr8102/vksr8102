@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">A Passionate Fullstack Developer & Freelancer from India with 3 Years of Experience</h3>
+<h3 align="center">A Passionate Fullstack Developer from India with 3 Years of Experience</h3>
 
 ---
 
